@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Data Retrieval</string>
+    <string name="name">Anupom Roy</string>
+    <string name="qualification">M.Sc (Science)</string>
+    <string name="job">Technical Analyst</string>
+    <string name="specilized">Programming</string>
+    <string name="message">Information from first Activity</string>
+
+</resources>
